@@ -1,0 +1,79 @@
+
+#header .bg-dark{
+    background-color: black!important;
+}
+
+#header .navbar-toggler-icon, .bg-light{
+    background-color: rgba(25, 25, 25, 0.713)!important;
+}
+
+#header .dropdown-item, .bg-dark{
+    background-color: rgba(25, 25, 25, 0.713)!important;
+}
+
+#header .nav-item-1, .bg-warning{
+    background-color: rgb(255, 141, 1)!important;
+}
+
+#section {
+    background-size: contain;
+    margin-top: auto;
+}
+
+#article .card{
+    background: linear-gradient(rgba(0,0,0, .8), rgba(0,0,0, .8));
+    color: rgba(241, 241, 241, 0.846)!important;
+}
+
+#article .container, .p-5{
+    display: block;
+}
+
+.blockquote {
+    font-size: xx-large!important;
+}
+
+.blockquote-footer{
+    font-size: x-large!important;
+}
+
+#footer .card, .ms {
+    margin-left: 0%;
+    border-color:transparent;
+}
+
+#footer .rounded-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+button.btn-warning.rounded-circle.btn-xl{
+    color: white;
+}
+
+#footer .btn-primary {
+    background-color: #007476;
+    border-color:transparent;
+}
+
+#footer .btn-warning {
+    background-color: #7b8427;
+    border-color:transparent ;
+    
+}
+
+#footer .btn-danger{
+    background-color: #9a0064;
+    border-color: transparent;
+}
+
+#footer .btn-success {
+    background-color: #007932;
+    border-color: transparent;
+}
+
+#footer .btn-secondary {
+    background-color: #743873;
+    border-color: transparent;
+}
